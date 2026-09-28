@@ -43,23 +43,21 @@ Making sure to attend every lecture/lab to work on the in-class exercises and la
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
 by majority vote
-
+Decisions will be made by majority vote. If there are different perspectives from different teammates, the team will listen to each others perspective and reach a compromise. 
 ---
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-  cannot move on unless the problem is solved
-  everyone is involved in solving
-  listening to each other's side of the issue and attempting to reach a compromise
+
+The team will listen to each other's side of the issue and attempt to reach a compromise for the challenge. Every single member cannot move on unless the problem is solved. Everyone is involved in solving the problem. If the team is not able to solve the conflict, we will reach out to the instructor/TA to solve the issue immeadiatly.
+  
   
 ---
 
 ## Accountability
 
 * Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-    asking for help either asking for another person to do the ask aswell or on how to start the task or for any missing information
-      asking to extend deadline
-      if made an error, explain what happened and how to fix it instead of letting other fix the entire thing or if you are unsure how to fix the error, ask for help instead of going silent
+  Teammates should ask for help either asking help from another person/TA/instructor for starting a task, missing information, or having errors in their code. Teammates should also ask for extended deadline if external circumstances arise and they need extra time completing their task. If a error is made, the teammate should explain wha happened and how to fix it instead of letting others fix their task. If unsure about the error, they should ask for help either instead of going silent.
 ---
 
 ---
@@ -72,5 +70,5 @@ Team Member 1: Ginni Arun Kumar
 Team Member 2: Carmen Teng
 Team Member 3: Rie Campbell
 Team Member 4: Sofiia Maksyuta
-Team Member 5: Zahra Badran
+Team Member 5: Zahraa Badran
 
