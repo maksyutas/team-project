@@ -70,7 +70,7 @@ Team Member Signatures:
 
 Team Member 1: Ginni Arun Kumar
 Team Member 2:
-Team Member 3:
+Team Member 3: Rie Campbell
 Team Member 4: Sofiia Maksyuta
 Team Member 5:
 
