@@ -69,8 +69,8 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 
 Team Member 1: Ginni Arun Kumar
-Team Member 2:
+Team Member 2: Carmen Teng
 Team Member 3: Rie Campbell
 Team Member 4: Sofiia Maksyuta
-Team Member 5:
+Team Member 5: Zahra Badran
 
